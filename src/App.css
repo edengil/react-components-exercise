@@ -25,9 +25,7 @@ body{
   }
 
 button{
-      width: 50px;
-      height: 15px;
-      background-color: grey; 
+      background-color: rgb(207, 205, 205); 
   }
   
 .exercise {
